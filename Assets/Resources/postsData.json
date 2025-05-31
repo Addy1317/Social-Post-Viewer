@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "username": "John Doe",
+      "profilePic": "profile1",
+      "content": "This is my first post!",
+      "likes": 10
+    },
+    {
+      "username": "Jane Smith",
+      "profilePic": "profile2",
+      "content": "Here's another exciting update.",
+      "likes": 7
+    },
+    {
+      "username": "Alex Kim",
+      "profilePic": "profile3",
+      "content": "Unity is fun to learn!",
+      "likes": 15
+    }
+  ]
+}
